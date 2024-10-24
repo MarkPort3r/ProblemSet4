@@ -31,11 +31,11 @@ if 'current' in data:
     wind_speed = current_weather['wind_speed']
 
     # Print the results
-    print(f"도시: {city}")
-    print(f"현재 온도: {temperature}°C")
-    print(f"체감 온도: {feels_like}°C")
-    print(f"습도: {humidity}%")
-    print(f"풍속: {wind_speed} km/h")
+    print(f"city: {city}")
+    print(f"current temperature: {temperature}°C")
+    print(f"apparent temperature: {feels_like}°C")
+    print(f"humidity: {humidity}%")
+    print(f"wind speed: {wind_speed} km/h")
 
    # Visualization: Compare actual temperature vs. feels like temperature
     labels = ['Actual Temperature', 'Feels Like']
