@@ -1,4 +1,4 @@
-#It used the APIXU API for Weather (seoyeon, Park)
+#It used the APIXU API for Weather
 #For API Call
 import requests
 import matplotlib.pyplot as plt
