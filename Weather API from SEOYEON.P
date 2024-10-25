@@ -4,7 +4,7 @@ import requests
 import matplotlib.pyplot as plt
 
 # API key and base URL configuration
-API_KEY = '724b9d38864a9a7537f1a8ce0726bb77'
+API_KEY = 'd9d0502666e5e629cfea424946fce096'
 BASE_URL = 'http://api.weatherstack.com/current'
 
 # City to query
